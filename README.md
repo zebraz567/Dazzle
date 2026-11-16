@@ -13,4 +13,12 @@ There isnt much to say about this website still i will try my best!
 
 I made it all by myself without any AI (which is rare in this era!)
 
+
+# How I made it?
+-using Html , css and cup of coffee
+
+#Difficulties?
+Main difficulty was playing the rickroll vid snycing with the sound
+....else was easy!
+
 By NotaZebra!!
